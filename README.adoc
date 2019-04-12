@@ -1,0 +1,3 @@
+= tyr-api
+
+API for Tyr check extensions - https://github.com/xstefank/tyr
