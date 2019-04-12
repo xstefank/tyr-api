@@ -4,7 +4,7 @@
 
   <groupId>io.xstefank</groupId>
   <artifactId>tyr-api</artifactId>
-  <version>999-SNAPSHOT</version>
+  <version>1.0</version>
   
   <name>Tyr API</name>
   <description>API for the Tyr project targeted for extensions</description>
