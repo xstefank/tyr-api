@@ -5,6 +5,24 @@
   <groupId>io.xstefank</groupId>
   <artifactId>tyr-api</artifactId>
   <version>999-SNAPSHOT</version>
+  
+  <name>Tyr API</name>
+  <description>API for the Tyr project targeted for extensions</description>
+  <url>https://github.com/xstefank/tyr-api</url>
+  
+  <scm>
+    <url>https://github.com/xstefank/tyr-api</url>
+    <connection>scm:git:git://github.com/xstefank/tyr-api.git</connection>
+    <developerConnection>scm:git:git@github.com:xstefank/tyr-api.git</developerConnection>
+  </scm>
+
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
 
   <dependencies>
     <dependency>
